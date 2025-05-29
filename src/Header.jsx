@@ -1,9 +1,9 @@
 
-function Header() 
-{
-  <header>
-    <div>Welcome To Todo list</div>
-  </header>
+function Header() {
+  return (
+    <header >
+      <div>Welcome To Todo list! hi</div>
+    </header>
+  )
 }
-
 export default Header
